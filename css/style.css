@@ -1,0 +1,7 @@
+h1 {color: #fa6900; font-family: "Raleway";font-style: italic;font-weight: bolder; text-decoration: underline;font-size:xx-large; text-transform: capitalize;text-shadow: #f38630;}
+h2 {color: #69D2E7;font-family: "Dancing script";font-style: oblique;font-weight: bold;}
+h3{font-style: oblique; font-family: "Prompt";color: #f38630;font-weight:bolder;font-size: x-large;text-decoration: underline;}
+html {margin-top: 5%;margin-bottom: 5%;margin-left: 5%; margin-right: 5%; background-color:  #E0E4CC;}
+contenedor{ display: flex;border: #69D2E7;border: 1cm;}
+img {width: 350px;height: 350px;border-color:#69D2E7;border-radius: 10%;}
+p{text-align: justify; font-family: "Poppins";border: #fa6900;border-style: inset;border-width: 1cm;}
